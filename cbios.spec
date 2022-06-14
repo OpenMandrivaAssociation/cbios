@@ -1,3 +1,5 @@
+%define         machines %{_datadir}/openmsx/machines
+
 Name:           cbios
 Version:        0.29a
 Release:        1
@@ -56,5 +58,5 @@ done
 # also we don't set hardwareconfig.xml as %%config because they are not
 # intended to be changed by the end user.
 %files openmsx
-%{_datadir}/openmsx/machines/*
+%{machines}/*
 %doc configs/openMSX/README.txt
