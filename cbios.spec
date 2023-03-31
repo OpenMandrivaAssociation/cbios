@@ -2,7 +2,7 @@
 
 Name:           cbios
 Version:        0.29a
-Release:        1
+Release:        2
 Summary:        A third party BIOS compatible with the MSX BIOS
 License:        BSD
 Group:		Emulators
