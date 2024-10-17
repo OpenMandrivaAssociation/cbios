@@ -6,7 +6,7 @@ Release:        2
 Summary:        A third party BIOS compatible with the MSX BIOS
 License:        BSD
 Group:		Emulators
-URL:            http://cbios.sourceforge.net/
+URL:            https://cbios.sourceforge.net/
 Source0:        https://downloads.sourceforge.net/%{name}/%{name}-%{version}.zip
 BuildArch:      noarch
 BuildRequires:  pasmo
