@@ -9,6 +9,7 @@ Group:		Emulators
 URL:            https://cbios.sourceforge.net/
 Source0:        https://downloads.sourceforge.net/%{name}/%{name}-%{version}.zip
 BuildArch:      noarch
+BuildRequires:	make
 BuildRequires:  pasmo
 
 %description
